@@ -2,6 +2,11 @@
 
 > This is a list created by me for who wish or already studying some field of Artificial Intelligence
 
+## Machine Learning
+
+[Learn with Google AI](https://ai.google/education/)
+> Learn from ML experts at Google. Whether you’re just learning to code or you’re a seasoned machine learning practitioner, you’ll find information and exercises to help you develop your skills and advance your projects.
+
  
 ## NPL (Natural Language Processing)
 
