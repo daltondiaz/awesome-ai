@@ -7,6 +7,9 @@
 [Learn with Google AI](https://ai.google/education/)
 > Learn from ML experts at Google. Whether you’re just learning to code or you’re a seasoned machine learning practitioner, you’ll find information and exercises to help you develop your skills and advance your projects.
 
+[Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning#machine-learning-and-data-science-applications-in-industry)
+> A curated list of applied machine learning and data science notebooks and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by awesome-machine-learning.
+
  
 ## NPL (Natural Language Processing)
 
