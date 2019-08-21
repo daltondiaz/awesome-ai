@@ -23,3 +23,8 @@
 
 [Hand Tracking (GPU)](https://github.com/google/mediapipe/blob/master/mediapipe/docs/hand_tracking_mobile_gpu.md#hand-tracking-gpu)
 > This doc focuses on the example graph that performs hand tracking with TensorFlow Lite on GPU. It is related to the hand detection example, and we recommend users to review the hand detection example first. For overall context on hand detection and hand tracking, please read this Google AI Blog post.
+
+## Examples
+
+[Amazon Sagemaker Examples](https://github.com/awslabs/amazon-sagemaker-examples)
+> This repository contains example notebooks that show how to apply machine learning and deep learning in [Amazon SageMaker](https://aws.amazon.com/sagemaker) 
