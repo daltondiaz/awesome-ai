@@ -10,6 +10,11 @@
 [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning#machine-learning-and-data-science-applications-in-industry)
 > A curated list of applied machine learning and data science notebooks and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by awesome-machine-learning.
 
+### Course
+
+[Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilear](https://www.youtube.com/watch?v=9f-GarcDY58)
+> This complete Machine Learning full course video covers all the topics that you need to know to become a master in the field of Machine Learning
+
  
 ## NPL (Natural Language Processing)
 
