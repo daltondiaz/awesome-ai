@@ -15,6 +15,8 @@
 [Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilear](https://www.youtube.com/watch?v=9f-GarcDY58)
 > This complete Machine Learning full course video covers all the topics that you need to know to become a master in the field of Machine Learning
 
+[Machine Learning Project - Part 1 | Predict House Prices in California | CloudxLab](https://www.youtube.com/watch?v=_zZFm90AwDs)
+> This CloudxLab Machine Learning Project tutorial helps you to understand how to work on a Machine Learning Project end-to-end in detail. 
  
 ## NPL (Natural Language Processing)
 
