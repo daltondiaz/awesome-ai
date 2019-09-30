@@ -17,6 +17,9 @@
 
 [Machine Learning Project - Part 1 | Predict House Prices in California | CloudxLab](https://www.youtube.com/watch?v=_zZFm90AwDs)
 > This CloudxLab Machine Learning Project tutorial helps you to understand how to work on a Machine Learning Project end-to-end in detail. 
+
+[Introduction to Machine Learning for Coders!](http://course18.fast.ai/ml)
+> There are around 24 hours of lessons, and you should plan to spend around 8 hours a week for 12 weeks to complete the material. The course is based on lessons recorded at the University of San Francisco for the Masters of Science in Data Science program. We assume that you have at least one year of coding experience, and either remember what you learned in high school math, or are prepared to do some independent study to refresh your knowledge
  
 ## NPL (Natural Language Processing)
 
